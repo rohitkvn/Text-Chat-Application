@@ -1,1 +1,1 @@
-# Text Chat Applicatiob
+# Text Chat Application
