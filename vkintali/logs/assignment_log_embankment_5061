@@ -1,0 +1,8 @@
+[LOGIN:SUCCESS]
+[LOGIN:END]
+[LIST:SUCCESS]
+1    embankment.cse.buffalo.edu         128.205.36.35       5061    
+2    highgate.cse.buffalo.edu           128.205.36.33       5062    
+[LIST:END]
+[SEND:SUCCESS]
+[SEND:END]
